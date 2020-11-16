@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cadf1a73-ca85-40cc-9bbd-0aae554a9d6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/portfolio_test/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/upload.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_test/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_test/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="158f9d1a-00c2-4252-95e2-fcb70bccc9a8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,13 +15,10 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1k6W3KD1W3CQnyGX1SFU2scVl0U" />
+  <component name="ProjectId" id="1kEoUx9eMzms5U947v9SratUyQH" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Test/count_project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -46,25 +37,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cadf1a73-ca85-40cc-9bbd-0aae554a9d6b" name="Default Changelist" comment="" />
-      <created>1605021320032</created>
+      <changelist id="158f9d1a-00c2-4252-95e2-fcb70bccc9a8" name="Default Changelist" comment="" />
+      <created>1605275130713</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605021320032</updated>
+      <updated>1605275130713</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
